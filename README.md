@@ -1,9 +1,8 @@
 ## Hi 👋, I'm Fatih Kaya
 ##### Graduate in Economics. Self-Taught Developer.
 
-- :telescope: I’m currently looking for a job. 
 - :pencil2: I am studying to be a self-taught developer. 
-- :seedling: I’m currently learning full stack development with JavaScript.
+- :seedling: I’m currently learning JavaScript, Python and ASP.NET Core.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fthky&label=Profile%20views&color=0e75b6&style=flat" alt="fthky" /> </p>
 
