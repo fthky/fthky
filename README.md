@@ -2,7 +2,7 @@
 ##### Graduate in Economics. Self-Taught Developer.
 
 - :pencil2: I am studying to be a self-taught developer. 
-- :seedling: I’m currently learning JavaScript, Python and .NET Core.
+- :seedling: I’m currently learning JavaScript, C# and .NET Core.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fthky&label=Profile%20views&color=0e75b6&style=flat" alt="fthky" /> </p>
 
