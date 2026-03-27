@@ -1,6 +1,6 @@
 ## Hi 👋, This is Fatih Kaya
 
-I'm a self-taught and passionate software developer living in İzmir, Turkey. I work for smartPulse Technology as the Jr. Developer. 
+I'm a self-taught and passionate software developer living in İzmir, Turkey. I work for smartPulse Technology as the Software Engineer. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fthky&label=Profile%20views&color=0e75b6&style=flat" alt="fthky" /> </p>
 
